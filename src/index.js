@@ -7,7 +7,7 @@ import './index.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename="/react-blended-ReactRouter">
+    <BrowserRouter basename="/react-blended-ReactRouter/">
       <App />
     </BrowserRouter>
   </React.StrictMode>,
